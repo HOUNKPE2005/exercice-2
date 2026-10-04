@@ -1,0 +1,8 @@
+code/
+env-code/
+venv/
+__pycache__/
+image.png
+video.mp4
+.vscode/
+.env
