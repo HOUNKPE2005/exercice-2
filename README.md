@@ -5,7 +5,7 @@ Il permet de naviguer entre les trois étapes, de rester sur une étape, de reve
 
 ## Installation
 
-Le projet utilise **Python 3.13.0**.
+Le projet utilise **Python 3.12.10**.
 
 Installer les dépendances avec :
 
